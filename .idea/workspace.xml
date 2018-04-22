@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8be75cd-46fd-4c56-804a-fa2a3fb70949" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/secondary.html" />
-    </list>
+    <list default="true" id="d8be75cd-46fd-4c56-804a-fa2a3fb70949" name="Default" comment="" />
     <ignored path="scout-audiology.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -623,12 +619,12 @@
       <option name="presentableId" value="Default" />
       <updated>1498687856858</updated>
       <workItem from="1498687858421" duration="7807000" />
-      <workItem from="1498704446298" duration="517000" />
+      <workItem from="1498704446298" duration="814000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8324000" />
+    <option name="totallyTimeSpent" value="8621000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="834" extended-state="6" />

@@ -21,7 +21,8 @@ nav.navbar .navbar-brand span{
     color:#FFF;
     font-size:18px;
     display:inline-block;
-    padding-top:10px;
+    padding-top:3px;
+    margin-left:10px;
 }
 nav.navbar #navbarNav{
     height:100%;
@@ -54,8 +55,9 @@ nav.navbar .navbar-nav .nav-link:hover{
     position:relative;
 }
 .hero.main{
-    height:450px;
-    background-image:url('../img/647377500.jpg');
+  background-position:right;
+    height:400px;
+    background-image:url('../img/hero_img.jpg');
 }
 .hero.main p{
     font-size:36px;
@@ -70,8 +72,8 @@ nav.navbar .navbar-nav .nav-link:hover{
     height:200px;
 }
 .hero.child.secondary{
-    background-image:url('../img/172694684.jpg');
-    background-position: 0 -90px;
+    background-image:url('../img/hero_secondary.jpg');
+    background-position: 0 center;
 }
 
 .content-block{
@@ -88,4 +90,3 @@ footer p{
     font-size:12px;
     color:#999;
 }
-
